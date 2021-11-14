@@ -1,5 +1,6 @@
 # Dicee 🎲
 I Created This Simple App While I Was Learning Flutter
+![Untitled Project](https://user-images.githubusercontent.com/91388754/141670326-cd127ee9-40f1-49ce-bb44-0d5ffe24247f.gif)
 
 ## On My Way To Learn Flutter
 ### What I Create
