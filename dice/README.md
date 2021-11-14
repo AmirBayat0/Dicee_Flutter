@@ -2,10 +2,10 @@
 I Created This Simple App While I Was Learning Flutter
 
 ## On My Way To Learn Flutter
-**What I Create**
+###What I Create###
  You can make the die roll at the press of a button. With this app in your pocket, you'll be able to settle any score on the go!
  
- **What i learn
+####What i learn
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
 - How to change the properties of various widgets.
