@@ -1,7 +1,7 @@
 # Dicee 🎲
-I Created This Simple App While I Was Learning Flutter
 ![Untitled Project](https://user-images.githubusercontent.com/91388754/141670326-cd127ee9-40f1-49ce-bb44-0d5ffe24247f.gif)
 
+I Created This Simple App While I Was Learning Flutter
 ## On My Way To Learn Flutter
 ### What I Create
   You can make the die roll at the press of a button. With this app in your pocket, you'll be able to settle any score on the go!
