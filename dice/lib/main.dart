@@ -49,7 +49,7 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: FlatButton(
             onPressed: () {
-              ChangeDiceeFace(); //Use Change Dicee Class
+              ChangeDiceeFace(); //Use Change Dicee Methode
             },
             child: Row(
               children: [
